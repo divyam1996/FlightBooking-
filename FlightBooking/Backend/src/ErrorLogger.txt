@@ -1,0 +1,237 @@
+Tue Apr 02 2019 11:06:20 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:21 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:23 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:24 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:25 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:26 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:27 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:28 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:29 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:30 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:31 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:33 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:34 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:35 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:36 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:37 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:38 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 11:06:39 GMT+0530 (India Standard Time) - Error: No flight available for booking
+    at db.getAllFlightIds.then.idArray (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:27:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:28:23 GMT+0530 (India Standard Time) - Error: Error in flight Id
+    at Object.Validator.validateFlightId (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:41:15)
+    at routing.post (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\routes\routing.js:37:23)
+    at Layer.handle [as handle_request] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Tue Apr 02 2019 12:28:24 GMT+0530 (India Standard Time) - Error: Error in flight Id
+    at Object.Validator.validateFlightId (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:41:15)
+    at routing.post (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\routes\routing.js:37:23)
+    at Layer.handle [as handle_request] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Tue Apr 02 2019 12:30:12 GMT+0530 (India Standard Time) - Error: Error in flight Id
+    at Object.Validator.validateFlightId (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\utilities\validator.js:6:19)
+    at Object.fBookingService.bookFlight (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:41:15)
+    at routing.post (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\routes\routing.js:37:23)
+    at Layer.handle [as handle_request] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\express\lib\router\index.js:335:12)
+Tue Apr 02 2019 12:34:17 GMT+0530 (India Standard Time) - Error: Customer not registered. Register to proceed
+    at db.checkCustomer.then (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:44:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:42:05 GMT+0530 (India Standard Time) - Error: Customer not registered. Register to proceed
+    at db.checkCustomer.then (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:44:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:44:51 GMT+0530 (India Standard Time) - Error: Customer not registered. Register to proceed
+    at db.checkCustomer.then (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:44:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:47:11 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at db.checkAvailability.then (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:47:29 GMT+0530 (India Standard Time) - Error: Flight almost Full... Only 2 left!!
+    at db.checkAvailability.then (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:62:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:48:04 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at db.checkAvailability.then (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:48:42 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.1000 to continue booking
+    at db.checkAvailability.then (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 12:49:37 GMT+0530 (India Standard Time) - Error: Insufficient Wallet Amount. Add more Rs.3000 to continue booking
+    at db.checkAvailability.then (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:69:35)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 13:10:09 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at db.checkAvailability.then (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 13:14:03 GMT+0530 (India Standard Time) - Error: Sorry for the Inconvinience... IND-102 is cancelled!!
+    at db.checkAvailability.then (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:54:31)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 14:43:19 GMT+0530 (India Standard Time) - Error: Could Not cancel the booking
+    at db.deleteBooking.then.bid (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:188:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 14:43:34 GMT+0530 (India Standard Time) - Error: Could Not cancel the booking
+    at db.deleteBooking.then.bid (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:188:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 14:43:45 GMT+0530 (India Standard Time) - Error: Could Not cancel the booking
+    at db.deleteBooking.then.bid (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:188:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)
+Tue Apr 02 2019 14:44:28 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { : null }
+    at Function.create (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\error.js:43:12)
+    at toError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:149:22)
+    at coll.s.topology.update (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\collection_ops.js:1414:39)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\connection\pool.js:532:18
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 14:44:36 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { : null }
+    at Function.create (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\error.js:43:12)
+    at toError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:149:22)
+    at coll.s.topology.update (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\collection_ops.js:1414:39)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\connection\pool.js:532:18
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 14:44:52 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { : null }
+    at Function.create (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\error.js:43:12)
+    at toError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:149:22)
+    at coll.s.topology.update (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\collection_ops.js:1414:39)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\connection\pool.js:532:18
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 14:44:52 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { : null }
+    at Function.create (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\error.js:43:12)
+    at toError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:149:22)
+    at coll.s.topology.update (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\collection_ops.js:1414:39)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\connection\pool.js:532:18
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 14:45:00 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { : null }
+    at Function.create (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\error.js:43:12)
+    at toError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:149:22)
+    at coll.s.topology.update (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\collection_ops.js:1414:39)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\connection\pool.js:532:18
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 14:45:45 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { : null }
+    at Function.create (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\error.js:43:12)
+    at toError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:149:22)
+    at coll.s.topology.update (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\collection_ops.js:1414:39)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\connection\pool.js:532:18
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 14:45:48 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { : null }
+    at Function.create (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\error.js:43:12)
+    at toError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:149:22)
+    at coll.s.topology.update (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\collection_ops.js:1414:39)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\connection\pool.js:532:18
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 14:45:49 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { : null }
+    at Function.create (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\error.js:43:12)
+    at toError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:149:22)
+    at coll.s.topology.update (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\collection_ops.js:1414:39)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\connection\pool.js:532:18
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 14:45:55 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { : null }
+    at Function.create (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\error.js:43:12)
+    at toError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:149:22)
+    at coll.s.topology.update (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\collection_ops.js:1414:39)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\connection\pool.js:532:18
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 14:45:55 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: FlightBooking_DB.Flight index: bookings.bookingId_1 dup key: { : null }
+    at Function.create (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\error.js:43:12)
+    at toError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\utils.js:149:22)
+    at coll.s.topology.update (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb\lib\operations\collection_ops.js:1414:39)
+    at C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongodb-core\lib\connection\pool.js:532:18
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 16:28:18 GMT+0530 (India Standard Time) - CastError: Cast to number failed for value "NaN" at path "bookingId" for model "Flight"
+    at new CastError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\error\cast.js:29:11)
+    at SchemaNumber.cast (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:311:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:849:12)
+    at SchemaNumber.SchemaType._castForQuery (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1252:15)
+    at SchemaNumber.castForQuery (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:363:14)
+    at SchemaNumber.SchemaType.castForQueryWrapper (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1221:15)
+    at cast (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\cast.js:307:32)
+    at cast (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\cast.js:126:25)
+    at model.Query.Query.cast (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4346:12)
+    at model.Query.Query._castConditions (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:1729:10)
+    at model.Query.<anonymous> (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:1982:8)
+    at model.Query._wrappedThunk [as _findOne] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\kareem\index.js:369:33)
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 16:31:10 GMT+0530 (India Standard Time) - CastError: Cast to number failed for value "NaN" at path "bookingId" for model "Flight"
+    at new CastError (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\error\cast.js:29:11)
+    at SchemaNumber.cast (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:311:11)
+    at SchemaNumber.SchemaType.applySetters (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:849:12)
+    at SchemaNumber.SchemaType._castForQuery (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1252:15)
+    at SchemaNumber.castForQuery (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schema\number.js:363:14)
+    at SchemaNumber.SchemaType.castForQueryWrapper (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\schematype.js:1221:15)
+    at cast (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\cast.js:307:32)
+    at cast (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\cast.js:126:25)
+    at model.Query.Query.cast (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:4346:12)
+    at model.Query.Query._castConditions (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:1729:10)
+    at model.Query.<anonymous> (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\query.js:1982:8)
+    at model.Query._wrappedThunk [as _findOne] (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\node_modules\kareem\index.js:369:33)
+    at process.internalTickCallback (internal/process/next_tick.js:70:11)
+Tue Apr 02 2019 17:15:56 GMT+0530 (India Standard Time) - Error: Could Not cancel the booking
+    at db.deleteBooking.then.bid (C:\Users\yajat.TRN\Desktop\FlightBooking-toTrainee\FBWebService\src\service\users.js:188:23)
+    at process.internalTickCallback (internal/process/next_tick.js:77:7)

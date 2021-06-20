@@ -1,0 +1,518 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Code coverage report for src/components/evaluator.js</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="..\..\prettify.css" />
+    <link rel="stylesheet" href="..\..\base.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type='text/css'>
+        .coverage-summary .sorter {
+            background-image: url(..\..\sort-arrow-sprite.png);
+        }
+    </style>
+</head>
+<body>
+<div class='wrapper'>
+  <div class='pad1'>
+    <h1>
+      <a href="..\..\index.html">All files</a> / <a href="index.html">src/components</a> evaluator.js
+    </h1>
+    <div class='clearfix'>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">0% </span>
+        <span class="quiet">Statements</span>
+        <span class='fraction'>0/51</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">0% </span>
+        <span class="quiet">Branches</span>
+        <span class='fraction'>0/16</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">0% </span>
+        <span class="quiet">Functions</span>
+        <span class='fraction'>0/13</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">0% </span>
+        <span class="quiet">Lines</span>
+        <span class='fraction'>0/41</span>
+      </div>
+    </div>
+  </div>
+  <div class='status-line low'></div>
+<pre><table class="coverage">
+<tr><td class="line-count quiet">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152</td><td class="line-coverage quiet"><span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">import React,<span class="cstat-no" title="statement not covered" > { Component } from 'react'<span class="cstat-no" title="statement not covered" ><span class="cstat-no" title="statement not covered" ><span class="cstat-no" title="statement not covered" ></span></span></span></span>
+<span class="cstat-no" title="statement not covered" >import "../App.css";</span>
+import axios <span class="cstat-no" title="statement not covered" >from 'axios';<span class="cstat-no" title="statement not covered" ><span class="cstat-no" title="statement not covered" ><span class="fstat-no" title="function not covered" ></span></span></span></span>
+&nbsp;
+class Evaluator extends Component {
+<span class="fstat-no" title="function not covered" >    co</span>nstructor(props) {
+<span class="cstat-no" title="statement not covered" >        super(props);<span class="cstat-no" title="statement not covered" ></span></span>
+        this.state = {
+            dbMessage: null,
+            testData: "",
+            errorMessage:""
+        }
+    }
+&nbsp;
+    setUpDb = () =<span class="fstat-no" title="function not covered" >&gt; </span>{
+        this<span class="cstat-no" title="statement not covered" >.setState({ dbMessage: null })</span>
+        axio<span class="cstat-no" title="statement not covered" >s.get("http://localhost:1050/setupDb").then(response =&gt; {<span class="fstat-no" title="function not covered" ></span></span>
+            this<span class="cstat-no" title="statement not covered" >.setState({ dbMessage: response.data })</span>
+        }).catch(erro<span class="fstat-no" title="function not covered" >r </span>=&gt; {
+            if(e<span class="cstat-no" title="statement not covered" >rror.response){</span>
+                retu<span class="cstat-no" title="statement not covered" >rn error.response.data.message</span>
+            }else{
+                retu<span class="cstat-no" title="statement not covered" >rn "server error"</span>
+            }
+        })
+    }<span class="cstat-no" title="statement not covered" ></span>
+&nbsp;
+    displayMyReport = () =<span class="fstat-no" title="function not covered" >&gt; </span>{
+        let reportJSON = this<span class="cstat-no" title="statement not covered" >.state.testData;</span>
+        let displayArray = []; <span class="cstat-no" title="statement not covered" >let</span> id = 1; <span class="cstat-no" title="statement not covered" >le</span>t styling = {}<span class="cstat-no" title="statement not covered" >; l</span>et symbol = "<span class="cstat-no" title="statement not covered" >";</span>
+        if (<span class="cstat-no" title="statement not covered" >reportJSON) {</span>
+            for <span class="cstat-no" title="statement not covered" >(let test of reportJSON.testResult[0].assertionReport) {</span>
+                let addtext = "";<span class="cstat-no" title="statement not covered" ></span>
+                if (<span class="cstat-no" title="statement not covered" >test.status === "passed") {</span>
+                    styl<span class="cstat-no" title="statement not covered" >ing = { "color": "green" }</span>
+                    symb<span class="cstat-no" title="statement not covered" >ol = &lt;span&gt;&amp;#10003;&lt;/span&gt;</span>
+                    addt<span class="cstat-no" title="statement not covered" >ext = ""</span>
+                } else if (<span class="cstat-no" title="statement not covered" >test.status === "failed") {</span>
+                    addt<span class="cstat-no" title="statement not covered" >ext = "Check if "</span>
+                    styl<span class="cstat-no" title="statement not covered" >ing = { "color": "red" }</span>
+                    symb<span class="cstat-no" title="statement not covered" >ol = &lt;span&gt;&amp;#9747;&lt;/span&gt;</span>
+                }
+                let element = (&lt;tr<span class="cstat-no" title="statement not covered" > key={id} style={styling}&gt;</span>
+                    &lt;td key={test.status} align="center"&gt;&lt;h3&gt;{symbol}&lt;/h3&gt;&lt;/td&gt;
+                    &lt;td key={test.testName}&gt;&lt;h6&gt;{addtext + test.testName}&lt;/h6&gt;&lt;/td&gt;
+                &lt;/tr&gt;)
+                disp<span class="cstat-no" title="statement not covered" >layArray.push(element);</span>
+                id++<span class="cstat-no" title="statement not covered" >;</span>
+            }
+            retu<span class="cstat-no" title="statement not covered" >rn displayArray;</span>
+        } else {
+            cons<span class="cstat-no" title="statement not covered" >ole.log("something broke!!")</span>
+            // this.setState({ evaluationStatus: "Please start the evaluation server first" })
+        }
+    }<span class="cstat-no" title="statement not covered" ></span>
+&nbsp;
+    fetchReport = () =<span class="fstat-no" title="function not covered" >&gt; </span>{
+        retu<span class="cstat-no" title="statement not covered" >rn axios.get("http://localhost:1050/evaluate")</span>
+            .then<span class="fstat-no" title="function not covered" >((</span>response) =<span class="cstat-no" title="statement not covered" >&gt; {  return response.d</span>ata })
+            .catch<span class="fstat-no" title="function not covered" >(e</span>rr =&gt; <span class="cstat-no" title="statement not covered" >{ this.setState({ testData: null }<span class="cstat-no" title="statement not covered" >)</span>; return this.state.testDat</span>a });
+    }<span class="cstat-no" title="statement not covered" ></span>
+&nbsp;
+    evaluate = () =<span class="fstat-no" title="function not covered" >&gt; </span>{
+        this<span class="cstat-no" title="statement not covered" >.setState({ testData: null });</span>
+        retu<span class="cstat-no" title="statement not covered" >rn this.fetchReport().then((dat<span class="fstat-no" title="function not covered" >a)</span> =&gt; {</span>
+            retu<span class="cstat-no" title="statement not covered" >rn this.setState({ testData: data });</span>
+        }).catch((err<span class="fstat-no" title="function not covered" >) </span>=&gt; {
+            retu<span class="cstat-no" title="statement not covered" >rn null</span>
+        })
+    }<span class="cstat-no" title="statement not covered" ></span>
+&nbsp;
+<span class="fstat-no" title="function not covered" >    re</span>nder() {
+<span class="cstat-no" title="statement not covered" >        return (</span>
+            &lt;div&gt;
+                {/* Message at the top after db setup */}
+                {this.state.dbMessage ? (
+                    &lt;div className="col-md-5 offset-3"&gt;
+                        &lt;div className="alert alert-info alert-dismissible" id="alert"&gt;
+                            &lt;button type="button" className="close" data-dismiss="alert"&gt;&amp;times;&lt;/button&gt;
+                            &lt;strong&gt;{this.state.dbMessage}&lt;/strong&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                ) : null}
+&nbsp;
+                {/* Displays the button at the bottom right corner */}
+                &lt;div className="adminActions"&gt;
+                    &lt;input type="checkbox" name="adminToggle" className="adminToggle" /&gt;
+                    &lt;a className="adminButton" href="#!"&gt;&lt;img src={require("../assets/test.png")} alt="admin button comes here" height="40px" width="55px" /&gt;&lt;/a&gt;
+                    &lt;div className="adminButtons"&gt;
+                        &lt;a title="Setup DB" href="#!" onClick={this.setUpDb}&gt;&lt;img src={require("../assets/db.png")} alt="setup button comes here" height="27px" width="30px" /&gt;&lt;/a&gt;
+                        &lt;a title="Evaluate" href="#!" data-toggle="modal" data-target="#myModal" onClick={this.evaluate}&gt;&lt;img src={require("../assets/search.png")}
+                            alt="evaluator button comes here" height="27px" width="30px" /&gt;&lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+&nbsp;
+                &lt;div id="myModal" className="modal fade" role="dialog"&gt;
+                    &lt;div className="modal-dialog modal-lg"&gt;
+&nbsp;
+                        &lt;div className="modal-content"&gt;
+                            &lt;div className="modal-header"&gt;
+                                &lt;h4 className="modal-title"&gt;Code analyser&lt;/h4&gt;
+                                &lt;button type="button" className="close" data-dismiss="modal"&gt;&amp;times;&lt;/button&gt;
+                            &lt;/div&gt;
+                            &lt;div className="modal-body bg"&gt;
+                                &lt;div className="row" id="load"&gt;
+                                    &lt;div className="col-md-9 offset-1 text-center"&gt;
+                                        {
+                                            this.state.testData ? (
+                                                &lt;div&gt;
+                                                    &lt;table className="table table-bordered" id="result" width="100px"&gt;
+                                                        &lt;thead&gt;
+                                                            &lt;tr&gt;
+                                                                &lt;th colSpan={2}&gt;
+                                                                    &lt;h3&gt;Your Structural Report&lt;/h3&gt;
+                                                                &lt;/th&gt;
+                                                            &lt;/tr&gt;
+                                                            &lt;tr&gt;
+                                                                &lt;th&gt;&lt;h5&gt;STATUS&lt;/h5&gt;&lt;/th&gt;
+                                                                &lt;th&gt;&lt;h5&gt;TEST NAME&lt;/h5&gt;&lt;/th&gt;
+                                                            &lt;/tr&gt;
+                                                        &lt;/thead&gt;
+                                                        &lt;tbody&gt;
+                                                            {this.displayMyReport()}
+                                                        &lt;/tbody&gt;
+                                                    &lt;/table&gt;
+                                                &lt;/div&gt;
+                                            ) : (
+                                                    &lt;div&gt;
+                                                        &lt;div className="form-group"&gt;
+                                                            &lt;img src={require("../assets/gears.gif")} alt="Loading..." /&gt;
+                                                        &lt;/div&gt;
+                                                        &lt;div className="form-group"&gt;
+                                                            &lt;h4 id="loading" className="text-center"&gt;Verifying code please wait .....&lt;/h4&gt;
+                                                        &lt;/div&gt;
+                                                    &lt;/div&gt;
+                                                )
+                                        }
+                                    &lt;/div&gt;
+                                &lt;/div &gt;
+                            &lt;/div &gt;
+                        &lt;/div &gt;
+&nbsp;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+&nbsp;
+        )
+    }<span class="cstat-no" title="statement not covered" ></span>
+}
+&nbsp;
+&nbsp;
+export default Evaluator;</pre></td></tr>
+</table></pre>
+<div class='push'></div><!-- for sticky footer -->
+</div><!-- /wrapper -->
+<div class='footer quiet pad2 space-top1 center small'>
+  Code coverage
+  generated by <a href="https://istanbul.js.org/" target="_blank">istanbul</a> at Tue Apr 02 2019 16:39:37 GMT+0530 (India Standard Time)
+</div>
+</div>
+<script src="..\..\prettify.js"></script>
+<script>
+window.onload = function () {
+        if (typeof prettyPrint === 'function') {
+            prettyPrint();
+        }
+};
+</script>
+<script src="..\..\sorter.js"></script>
+</body>
+</html>
